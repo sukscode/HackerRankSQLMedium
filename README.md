@@ -1,2 +1,4 @@
-# HackerRankSQLMedium
+
+
+#    HackerRank  SQL  Medium Level Questions
  
